@@ -1,64 +1,64 @@
 ## Index of source code examples:
 
-\Actual units resize
-\Annotation
-\Annotation (advanced)
-\Batch watermarking
-\Change DPI
-\DateTime
-\FileName
-\Fit within resize
-\LogoImage
-\LogoImage (advanced)
-\LogoImageWithText
-\LogoImageWithText (advanced)
-\Macros (EXIF)
-\Percentage resize
-\Pixels resize
-\Progress Indicator
-\SimpleText
-\SimpleText (advanced)
-\SimpleVerticalText
-\SimpleVerticalText (advanced)
-\Stamp
-\StampFitsPage
-\StampFitsPageDiagonal
-\TextFitsPage
-\TextFitsPage (advanced)
-\TextFitsPageDiagonal
-\TextFitsPageDiagonal (advanced)
-\TiledText
-\TiledTextDiagonal
-\TiledTextVertical
-\_Getting Started
-\Actual units resize\Actual units resize
-\Annotation\Annotation
-\Annotation (advanced)\Annotation
-\Batch watermarking\BatchWatermarking
-\Change DPI\Change DPI
-\DateTime\DateTime
-\DateTime\DateTime\DateTime
-\FileName\FileName
-\Fit within resize\Fit within resize
-\LogoImage\LogoImage
-\LogoImage (advanced)\LogoImage
-\LogoImageWithText\LogoImageWithText
-\LogoImageWithText (advanced)\LogoImageWithText
-\Macros (EXIF)\AnnotationMacros
-\Percentage resize\Percentage resize
-\Pixels resize\Pixels resize
-\SimpleText\SimpleText
-\SimpleText (advanced)\SimpleText
-\SimpleVerticalText\SimpleVerticalText
-\SimpleVerticalText (advanced)\SimpleVerticalText
-\Stamp\Stamps
-\StampFitsPage\StampFitsPage
-\StampFitsPageDiagonal\StampFitsPageDiagonal
-\TextFitsPage\TextFitsPage
-\TextFitsPage (advanced)\TextFitsPage
-\TextFitsPageDiagonal\TextFitsPageDiagonal
-\TextFitsPageDiagonal (advanced)\TextFitsPageDiagonal
-\TiledText\TiledText
-\TiledTextDiagonal\TiledTextDiagonal
-\TiledTextVertical\TiledTextVertical
-\_Getting Started\hello_world_cs
+\add advanced text watermark
+\Add Annotation watermark to image
+\Add date time to image
+\add diagonal stamp to image
+\add diagonal text watermark
+\add file name caption to image
+\Add logo and text to image
+\Add logo and text to image with options
+\Add logo to image
+\Add logo to image with options
+\add simple text watermark
+\Add simple text watermark to image
+\Add Simple Watermark
+\add stamp for whole page
+\add stamp to image
+\add tiled diagonal text watermark
+\add tiled text watermark
+\add tiled vertical text watermark
+\add vertical text watermark
+\add vertical text watermark with options
+\add whole page text watermark
+\Batch watermark multiple images
+\Change DPI image resolution
+\Resize image as Fit within
+\Resize image in percentage
+\Resize image in pixels
+\Set Advanced Annotation based watermark
+\set diagonal text watermark options
+\Show progress indication
+\Use Actual units to resize image
+\Use EXIF Macros for watermarks
+\add advanced text watermark\TextFitsPage
+\Add Annotation watermark to image\Annotation
+\Add date time to image\DateTime
+\Add date time to image\DateTime\DateTime
+\add diagonal stamp to image\StampFitsPageDiagonal
+\add diagonal text watermark\TextFitsPageDiagonal
+\add file name caption to image\FileName
+\Add logo and text to image\LogoImageWithText
+\Add logo and text to image with options\LogoImageWithText
+\Add logo to image\LogoImage
+\Add logo to image with options\LogoImage
+\add simple text watermark\SimpleText
+\Add simple text watermark to image\SimpleText
+\Add Simple Watermark\hello_world_cs
+\add stamp for whole page\StampFitsPage
+\add stamp to image\Stamps
+\add tiled diagonal text watermark\TiledTextDiagonal
+\add tiled text watermark\TiledText
+\add tiled vertical text watermark\TiledTextVertical
+\add vertical text watermark\SimpleVerticalText
+\add vertical text watermark with options\SimpleVerticalText
+\add whole page text watermark\TextFitsPage
+\Batch watermark multiple images\BatchWatermarking
+\Change DPI image resolution\Change DPI
+\Resize image as Fit within\Fit within resize
+\Resize image in percentage\Percentage resize
+\Resize image in pixels\Pixels resize
+\Set Advanced Annotation based watermark\Annotation
+\set diagonal text watermark options\TextFitsPageDiagonal
+\Use Actual units to resize image\Actual units resize
+\Use EXIF Macros for watermarks\AnnotationMacros
