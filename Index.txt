@@ -31,34 +31,3 @@
 \Show Progress Indication
 \Use Actual Units to Resize Image
 \Use EXIF Macros for Watermarks
-\Add Advanced Text Watermark\TextFitsPage
-\Add Annotation Watermark to Image\Annotation
-\Add Date Time to Image\DateTime
-\Add Date Time to Image\DateTime\DateTime
-\Add Diagonal Stamp to Image\StampFitsPageDiagonal
-\Add Diagonal Text Watermark\TextFitsPageDiagonal
-\Add File Name Caption to Image\FileName
-\Add Logo and Text to Image\LogoImageWithText
-\Add Logo and Text to Image with Options\LogoImageWithText
-\Add Logo to Image\LogoImage
-\Add Logo to Image with Options\LogoImage
-\Add Simple Text Watermark\SimpleText
-\Add Simple Text Watermark to Image\SimpleText
-\Add Simple Watermark\hello_world_cs
-\Add Stamp for Whole Page\StampFitsPage
-\Add Stamp to Image\Stamps
-\Add Tiled Diagonal Text Watermark\TiledTextDiagonal
-\Add Tiled Text Watermark\TiledText
-\Add Tiled Vertical Text Watermark\TiledTextVertical
-\Add Vertical Text Watermark\SimpleVerticalText
-\Add Vertical Text Watermark with Options\SimpleVerticalText
-\Add Whole Page Text Watermark\TextFitsPage
-\Batch Watermark Multiple Images\BatchWatermarking
-\Change DPI Image Resolution\Change DPI
-\Resize Image as Fit Within\Fit within resize
-\Resize Image in Percentage\Percentage resize
-\Resize Image in Pixels\Pixels resize
-\Set Advanced Annotation Based Watermark\Annotation
-\Set Diagonal Text Watermark Options\TextFitsPageDiagonal
-\Use Actual Units to Resize Image\Actual units resize
-\Use EXIF Macros for Watermarks\AnnotationMacros
